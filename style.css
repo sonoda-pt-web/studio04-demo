@@ -87,6 +87,7 @@ button, input, textarea { font: inherit; color: inherit; }
   letter-spacing: 0.08em;
   transition: background 0.2s, color 0.2s, border-color 0.2s;
   -webkit-tap-highlight-color: transparent;
+  text-decoration: none;
 }
 .btn-accent { background: var(--accent); color: #fff; }
 .btn-accent:hover, .btn-accent:focus-visible { background: var(--accent-dark); }

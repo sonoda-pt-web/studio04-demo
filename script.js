@@ -1,4 +1,4 @@
-// studio.04 ご提案用見本：外部リンクは一切なし。ボタン・フォームは表示のみ。
+// studio.04 ご提案用見本：予約ボタンのみ実際の予約ページへリンク。その他のボタン・フォームは表示のみ。
 (function () {
   var toast = document.getElementById('toast');
   var timer = null;
@@ -12,7 +12,7 @@
     }, 2600);
   }
 
-  // 予約・LINE・Instagram・口コミなどのボタン
+  // LINE・Instagram・口コミなどのボタン
   document.querySelectorAll('.js-dummy').forEach(function (btn) {
     btn.addEventListener('click', function (e) {
       e.preventDefault();
