@@ -4,4 +4,4 @@ studio.04 様（福岡市南区のプライベートピラティス）へのご�
 
 - HTML / CSS / JavaScript のみ（index.html 1ページ）
 - GitHub Pages で公開する想定
-- 検索除外（noindex, nofollow）、外部リンクなし
+- 検索除外（noindex, nofollow）、外部リンクは予約ボタン（Googleカレンダー予約ページ）のみ
